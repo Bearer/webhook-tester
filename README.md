@@ -20,7 +20,7 @@ yarn
 Launch the server:
 
 ```shell
-yarn install
+yarn start
 ```
 
 The Server is up and running on the `3000` port with a `/bearer/webhook` path.
