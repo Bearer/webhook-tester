@@ -23,7 +23,7 @@ Launch the server:
 yarn start
 ```
 
-The Server is up and running on the `3000` port with a `/bearer/webhook` path.
+The Server is up and running on the `3000` port with a `/bearer/webhooks` path.
 
 ## Using Ngrok
 
