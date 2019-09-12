@@ -45,4 +45,4 @@ This will give you a Ngrok url like:
 http://2487303f.ngrok.io
 ```
 
-Append the `/bearer/webhook` to it and post it to the integration you want to test.
+Append the `/bearer/webhooks` to it and post it to the integration you want to test.
