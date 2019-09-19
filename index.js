@@ -1,5 +1,6 @@
 const express = require("express")
-const bearerWebhooks = require("@bearer/express").default
+const bearerWebhooks = require("@bearer/express")
+const bearer = require("@bearer/node")
 const bodyParser = require("body-parser")
 const app = express()
 const port = 3000
